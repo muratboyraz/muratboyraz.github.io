@@ -46,28 +46,7 @@
 .menu li:hover {
     background-color: #0099cc;
 }
-.center { 
-    height:auto;
-    position: relative;
-    border:none; 
-    margin-left: 35%;
-    margin-right: 5%;
-  
-}
 
-.center p {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
-h1{
-    color:rgba(25,90,85,0.5);
-    
-    
-}
 .menu li.sag{
     
     float:right;

@@ -1,0 +1,36 @@
+p{
+    color: bisque;
+    font-size: 16px;
+    
+    
+}
+b{
+    color: coral;
+    font-size: 16px;
+}
+.disabled{
+    
+    color: red;
+}
+.center { 
+    height:auto;
+    position: relative;
+    border:none; 
+    margin-left: 35%;
+    margin-right: 5%;
+  
+}
+
+.center p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+h1{
+    color:rgba(15,90,85,0.5);
+    
+    
+}
