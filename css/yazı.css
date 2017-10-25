@@ -1,16 +1,17 @@
 p{
     color: bisque;
     font-size: 16px;
+    font-family:inherit;
     
     
 }
 b{
-    color: coral;
+    color:aquamarine;
     font-size: 16px;
 }
 .disabled{
     
-    color: red;
+    color:chartreuse;
 }
 .center { 
     height:auto;
@@ -29,8 +30,8 @@ b{
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
-h1{
-    color:rgba(15,90,85,0.5);
-    
-    
+h1,h3{
+    color:rgba(28,65,180,0.5);
+    font-family: fantasy;
+  
 }
